@@ -1,5 +1,5 @@
 # Go Meta Linter
-[![Build Status](https://travis-ci.org/alecthomas/gometalinter.svg)](https://travis-ci.org/alecthomas/gometalinter) [![Gitter chat](https://badges.gitter.im/alecthomas.svg)](https://gitter.im/alecthomas/Lobby)
+[![Build Status](https://travis-ci.org/alecthomas/gometalinter.svg)](https://travis-ci.org/alecthomas/gometalinter) [![Gitter chat](https://badges.gitter.im/alecthomas.svg)](https://gitter.im/alecthomas/Lobby) [![GuardRails badge](https://badges.production.guardrails.io/moul/gometalinter.svg)](https://www.guardrails.io)
 
 <!-- MarkdownTOC -->
 
